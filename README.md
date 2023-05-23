@@ -1,5 +1,6 @@
 ---
 description: This displays a list of courses that are needed for the semester
+layout: landing
 ---
 
 # Courses
