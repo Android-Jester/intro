@@ -6,7 +6,7 @@ description: This displays a list of courses that are needed for the semester
 
 | Course Name                | Course Code | Course Link                                                                                |
 | -------------------------- | ----------- | ------------------------------------------------------------------------------------------ |
-| Computer Networks          | CSM 478     | [csm-478-computer-networks.md](csm-478-computer-networks.md "mention")                     |
+| Computer Networks          | CSM 478     | [csm-478-computer-networks](csm-478-computer-networks/ "mention")                          |
 | Information Systems 2      | CSM 482     | [csm-482-information-systems-2](csm-482-information-systems-2/ "mention")                  |
 | Introduction to Compilers  | CSM 484     | [csm-484-introduction-to-compilers.md](csm-484-introduction-to-compilers.md "mention")     |
 | Computer Security          | CSM 490     | [csm-494-computer-security.md](csm-494-computer-security.md "mention")                     |
