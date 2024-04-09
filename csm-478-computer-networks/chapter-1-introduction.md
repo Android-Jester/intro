@@ -159,7 +159,7 @@
     * multiple computers and peripheral devices are linked to a central computer, called a host
     *
 
-        <figure><img src="../.gitbook/assets/Pasted image 20230701212100 (1).png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../.gitbook/assets/Pasted image 20230701212100.png" alt=""><figcaption></figcaption></figure>
   * **Ring topology**
     * each computer or workstation is connected to two other computers, with the entire network forming a circle
     *

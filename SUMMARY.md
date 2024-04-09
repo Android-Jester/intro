@@ -10,7 +10,7 @@
   * [Chapter 6: Functional Business Systems](csm-482-information-systems-2/chapter-6-functional-business-systems.md)
   * [Chapter 7: E-Commerce Fundamentals](csm-482-information-systems-2/chapter-7-e-commerce-fundamentals.md)
   * [Chapter 8: E-Commerce Applications and Issues](csm-482-information-systems-2/chapter-8-e-commerce-applications-and-issues.md)
-* [CSM 478: Computer Networks](csm-478-computer-networks.md)
+* [CSM 478: Computer Networks](csm-478-computer-networks/README.md)
   * [Chapter 1: Introduction](csm-478-computer-networks/chapter-1-introduction.md)
   * [Chapter 2: Network Devices and their Functions](csm-478-computer-networks/chapter-2-network-devices-and-their-functions.md)
   * [Chapter 3: Network Models](csm-478-computer-networks/chapter-3-network-models.md)
